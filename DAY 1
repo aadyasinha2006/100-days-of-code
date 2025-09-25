@@ -1,0 +1,4 @@
+# This is Day 1 of Pythonbasics
+# Print Hello, World! to the console
+
+print("Hello, world")
